@@ -58,9 +58,9 @@ export  const integrationConfig = {
         },
         {
           label: "Alert Admin",
-          type: "multi-checkbox",
+          type: "checkbox",
           required: true,
-          default: "Super-Admin",
+          default: "Developer",
           options: ["Super-Admin", "Admin", "Manager", "Developer"]
         }
       ],
