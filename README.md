@@ -53,7 +53,7 @@ This integration is ideal for applications like Telex channels, where it can aut
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/writers-revise.git
+   git clone [https://github.com/NnatuanyaFrankOguguo/telex_integration.git](https://github.com/NnatuanyaFrankOguguo/telex_integration.git)
    cd writers-revise
 Install Dependencies:
 
