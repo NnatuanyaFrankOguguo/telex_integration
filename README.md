@@ -150,7 +150,7 @@ Use the output to display a refined message in the Telex channel, improving clar
 Screenshots
 Below are sample screenshots showcasing the integration working in a Telex channel:
 
-![Screenshot of Integration](./screenshots/screenshot_1.png)
+![Screenshot of Integration](./screenshots/Screenshot_1.png)
 
 
 Figure 1: Telex channel displaying a summarized message with word count details.
