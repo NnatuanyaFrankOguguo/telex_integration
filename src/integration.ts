@@ -6,9 +6,9 @@ export  const integrationConfig = {
       },
       descriptions: {
         app_description: "Writers Revise is an innovative backend integration designed to enhance student essay writing through automated revision, editing, proofreading, and word count analysis. When a student submits an essay, the tool intercepts the text and employs advanced natural language processing to identify and correct grammatical, punctuation, and stylistic errors. In addition to delivering a refined version of the essay with contextual suggestions for clarity and precision, it also automatically calculates word counts, helping students adhere to assignment guidelines and improve conciseness. This comprehensive approach not only polishes written work but also educates students on effective writing techniques, making it a valuable learning resource.",
-        app_logo: "https://iili.io/MUnHL7.md.jpg",
+        app_logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyqbRu8V-rK7gnALja0roK4Z6gLLzgnkwLKw&s",
         app_name: "Writers Revise: A Smart Essay Editing, Proofreading, and Word Count Integration",
-        app_url: "https://0dtd3s5d-3000.uks1.devtunnels.ms",
+        app_url: "https://telex-integration-57kp.onrender.com",
         background_color: "#00000"
       },
       integration_category: "Monitoring & Logging",
@@ -64,7 +64,7 @@ export  const integrationConfig = {
           options: ["Super-Admin", "Admin", "Manager", "Developer"]
         }
       ],
-      target_url: "https://0dtd3s5d-4000.uks1.devtunnels.ms/webhook",
+      target_url: "https://telex-integration-57kp.onrender.com/webhook",
       endpoint: [
         {
             path: "/webhook",
