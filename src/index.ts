@@ -52,7 +52,7 @@ app.post("/webhook", async(req: any, res: any) => {
     if (!message){
         return res.status(400).json({error : "No text Provided"})
     }
-    console.log("body", req.body)
+    //console.log("body", req.body)
 
     const client = new HfInference(process.env.HUGGING_FACE_SECRETS as string);
     
